@@ -10,7 +10,7 @@ dependencies:
 - pip==20.2.4
 - pyspark[sql]==3.2.1
 - python==3.8.5
-- pytorch==1.7.1
+- pytorch
 - scikit-learn==1.0.1
 - scipy==1.7.3
 - sparse==0.13.0
