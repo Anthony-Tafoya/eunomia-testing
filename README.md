@@ -41,3 +41,4 @@ For a more detailed summary of omop-learn's data collection pipeline, and for do
 `omop-learn` was written by Rohan Kodialam and Jake Marcus, with additional contributions by Rebecca Boiarsky, Justin Lim, Ike Lage, Shannon Hwang, Hunter Lang, Christina Ji, Irene Chen, and Alejandro Buendia.
 
 This package was developed as part of a collaboration with Independence Blue Cross and would not have been possible without the advice and support of Aaron Smith-McLallen, Ravi Chawla, Kyle Armstrong, Luogang Wei, Neil Dixit, and Jim Denyer.
+# eunomia-testing
